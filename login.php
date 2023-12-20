@@ -6,41 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login Page</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <style>
-        body,
-        .containerLogin {
-            background-image: url(assets/pictures/bgLogin.jpg);
-            background-size: cover;
-            width: 100%;
-            height: 100vh;
-            background-color: #f4f4f4;
-            display: flex;
-            align-items: center;
-        }
-
-        .login-container {
-            background-image: url(assets/pictures/loginPicture1.png);
-            background-size: cover;
-            max-width: 400px;
-            margin-left: 300px;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-        }
-
-        .custom-btn {
-            width: 100px;
-        }
-
-        .container {
-            width: 100%;
-            height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-    </style>
 </head>
 
 <body>
