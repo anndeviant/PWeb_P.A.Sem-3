@@ -2,4 +2,4 @@
 Note:
 - **No Assets Image**
 - **No Database**
-- **NO CSS**
+- **No CSS**
